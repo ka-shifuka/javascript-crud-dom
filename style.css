@@ -1,0 +1,25 @@
+.container_ {
+  height: 100vh;
+}
+
+.title {
+  height: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.center_ {
+  margin: 5%;
+}
+
+td {
+  overflow: hidden;
+  height: 0.7rem;
+}
+
+.ter {
+  display: flex;
+  justify-content: center;
+}
